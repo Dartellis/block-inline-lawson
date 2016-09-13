@@ -1,0 +1,41 @@
+/* Put your CSS rules here: */
+
+.picture_container{
+	padding-top:10px;
+	padding-right:10px;
+	border:10px solid blue;
+	background-color:black;
+}
+
+
+.span_container > .bold {
+	font-weight: bold;
+}
+
+.span_container > .italic {
+	font-style: italic;
+}
+
+.span_container > .underline {
+	text-decoration: underline;
+}
+
+.tiled_container{
+	width:100%;
+
+}
+
+.tiled_container > .element{
+	height:10px;
+	border-top:5px solid black;
+	border-bottom:5px solid black;
+	background-color: white;
+
+}
+
+
+
+/* These are for the exercise, please don't edit them! */
+html,body{margin:0;padding:0;}
+body{font-family:sans-serif;}
+.content{width:980px;padding:10px;}
