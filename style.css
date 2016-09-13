@@ -1,6 +1,6 @@
 /* Put your CSS rules here: */
 
-.picture_container{
+.picture_container > img{
 	padding-top:10px;
 	padding-right:10px;
 	border:10px solid blue;
